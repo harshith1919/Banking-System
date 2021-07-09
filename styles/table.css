@@ -1,0 +1,8 @@
+.py-2 {
+    text-align: center;
+}
+.table {
+    z-index: 20;
+    box-shadow: 3px 2px darkgrey;
+    margin-top:20px;
+}

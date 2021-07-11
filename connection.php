@@ -1,8 +1,8 @@
 <?php
 
-	$servername = "localhost";
-    $username = "root";
-    $password = "";
+	$servername = "us-cdbr-east-04.cleardb.com";
+    $username = "bc4a3a03d60a75";
+    $password = "82a03c7a";
 	$database = "sparksbank";
 
 // Create connection
